@@ -1,11 +1,11 @@
 # Site settings
 author: Joseph Maximo Marguello
-title: 
+title: What brought me to do Software Engineering?
 header-img: img/home-bg.png
 email: marguellomax@gmail.com
 copyright_name: Joseph Maximo Marguello
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Start of Software Engineering.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MaximoM12
